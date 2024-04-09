@@ -405,7 +405,7 @@ uint8 rf_sleepModeConfig_cfg[] = {
    0x02,     // addr_h
    0xEB,     // addr_l
    0x01,     // length
-   0x81      // RIVIAN setting: "extended power save" mode. SPI active in this sleep mode.
+   0x81      // RAJA setting: "extended power save" mode. SPI active in this sleep mode.
 };
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
